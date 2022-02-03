@@ -1,0 +1,4 @@
+#Mon Jan 31 13:16:24 EAT 2022
+base.0=D\:\\Downloads\\react-native-toast\\toast\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
